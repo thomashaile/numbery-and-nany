@@ -1,0 +1,4 @@
+const entries = {
+  numbery: [],
+  nany: []
+};
