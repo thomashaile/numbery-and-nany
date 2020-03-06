@@ -1,7 +1,7 @@
 # Numbery & NaNy
 
 > Create a website that sorts user-provided strings into two categories, _NaNy_ and _Numbery_.  It should look like a prettier version of this:
-
+---
 > ![screenshot](./screenshot.png)
 
 > Further specifications:
