@@ -1,0 +1,58 @@
+.container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+input {
+    width: 75%;
+    padding: 12px 20px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 8px 0;
+    border: 2px solid #4caf50;
+    border-radius: 4px;
+}
+
+td {
+    width: 160px;
+    text-align: center;
+}
+
+.button-primary {
+    width: 90px;
+    background-color: blue;
+    box-sizing: border-box;
+    border: 2px solid blue;
+    border-radius: 4px;
+    color: white;
+    padding: 5px 13px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.button-remove {
+    width: 90px;
+    background-color: red;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
+    color: white;
+    padding: 5px 13px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.button-reset {
+    width: 90px;
+    background-color: orange;
+    box-sizing: border-box;
+    border: 2px solid orange;
+    border-radius: 4px;
+    color: white;
+    padding: 5px 13px;
+    text-align: center;
+    font-size: 16px;
+}
